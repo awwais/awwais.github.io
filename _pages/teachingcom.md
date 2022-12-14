@@ -1,6 +1,6 @@
 ---
-layout: page
-title: Checking
+layout: none
+title: Learing
 permalink: /
 ---
 
