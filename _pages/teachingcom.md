@@ -1,7 +1,7 @@
 ---
 layout: none
 title: Learing
-permalink: /
+permalink: /teachingcom
 ---
 
 Hello guys chai pelo
