@@ -3,7 +3,7 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: hahaaha
+first_name: AwaisNew
 middle_name: 
 last_name:  
 email: awaismustafa040@gmail.com
@@ -14,7 +14,7 @@ footer_text: >
 keywords: awais, awais mustafa, Awais Mustafa, awaismustafa github, awais mustafa github, awaisMustafa github,AwaisMustafa github  # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: 🤖  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon:   # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://github.com/Awais-Mustafa/awais.github.io # the base hostname & protocol for your site
 baseurl:  # the subpath of your site, e.g. /blog/
