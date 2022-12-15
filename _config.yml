@@ -8,7 +8,7 @@ middle_name:
 last_name:  
 email: awaismustafa040@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-   Awais
+   Testing
 footer_text: >
   
 keywords: awais, awais mustafa, Awais Mustafa, awaismustafa github, awais mustafa github, awaisMustafa github,AwaisMustafa github  # add your own keywords or leave empty
@@ -39,7 +39,7 @@ repo_theme_dark: dark           # https://github.com/anuraghazra/github-readme-s
 # will use title and url fields
 # Take a look to https://github.com/jekyll/jekyll-feed for more customization
 
-rss_icon: false
+rss_icon: true
 
 # -----------------------------------------------------------------------------
 # Layout
