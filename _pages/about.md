@@ -25,7 +25,7 @@ I am a [computer science]() student who loves working on [large-scale data.]()
 
 
 I also love to [learn new things](), especially when it comes to [programming!]()
-Some of my [projects! are ...](https://awwais.github.io/projects)
+Some of my [projects! are ...](/projects)
 
 
 
