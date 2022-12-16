@@ -2,15 +2,16 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href=''>Pakistan</a>. Land of Peace.
+subtitle: from
+subtitle: <a href=''>Pakistan</a> Land of Peace.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>Iam</p>
-    <p>awaismustafa at</p>
+    <p>Iawaismustafa</p>
+    <p>at</p>
     <p>gmail.com</p>
 
 news: true  # includes a list of news items
@@ -18,7 +19,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-I am Awais Mustafa.Student of [ComputerScience](http://computerscience.com).
+I am Awais Mustafa. Student of [ComputerScience](http://computerscience.com).
 
 <!-- You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
