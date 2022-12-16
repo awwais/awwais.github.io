@@ -19,9 +19,9 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-I am Awais Mustafa, and I love solving problems.
-I am a computer science student who loves working on [large-scale data.] 
-I also love to learn new things, especially when it comes to [programming!] It's an amazing way to make your own creations, and some my [projects! are]()
+I am Awais Mustafa, and I love [solving problems.]()
+I am a [computer science]() student who loves working on [large-scale data.]()
+I also love to learn new things, especially when it comes to [programming!]() It's an amazing way to make your own creations, and some my [projects! are]()
 
 
 
