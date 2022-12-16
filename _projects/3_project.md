@@ -1,8 +1,8 @@
 ---
 layout: page
-title: project 3
-description: a project with a background image
+title: Game Development
+description: 
 img: assets/img/3.jpg
-importance: 2
-category: somethiing
+importance: 3
+category: work
 ---
