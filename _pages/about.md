@@ -12,7 +12,7 @@ profile:
   address: >
     <p>Iawaismustafa at gmail dot</p>
     <p>com </p>
-<!--     <p>gmail.com</p> -->
+
 
 news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
@@ -20,13 +20,9 @@ social: false  # includes social icons at the bottom of the page
 ---
 
 I am Awais Mustafa, and I love solving problems.
-
 I am a computer science student who loves working on large-scale data . 
-
 I also love to learn new things, especially when it comes to programming! It's an amazing way to make your own creations, and I can't get enough of it!
-
 I hope you enjoy my work as much as I did creating it!
-
 If you ever need help with anything related to code or computer science, don't hesitate to reach out!
 
 <!-- You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
