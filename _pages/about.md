@@ -11,7 +11,7 @@ profile:
   image_circular: false # crops the image to make it circular
   address: >
     <p>Iawaismustafa at gmail dot</p>
-    <p>com</p>
+    <p>com </p>
 <!--     <p>gmail.com</p> -->
 
 news: true  # includes a list of news items
