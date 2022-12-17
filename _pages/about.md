@@ -2,7 +2,7 @@
 layout: about
 title: Home
 permalink: /
-subtitle: Sophomore at <a href='uom.edu.pk'>UOM</a> • Living in <a href="">Pakistan</a>
+subtitle: Sophomore at <a href='https://csit.uom.edu.pk'>UOM</a> • Living in <a href="">Pakistan</a>
 
 profile:
   align: right
