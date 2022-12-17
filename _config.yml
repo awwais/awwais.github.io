@@ -10,8 +10,8 @@ email: awaisdevops@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
    Personal Website
 footer_text: >
- <pre>                                        Made with [♥]()
- </pre>
+             Made with [♥]()
+ 
 keywords: awais,awwais,awwais mustafa,google, awais mustafa, Awais Mustafa, awaismustafa github, awais mustafa github, awaisMustafa github,AwaisMustafa github  # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
