@@ -23,7 +23,7 @@ I am a computer science student who loves working on large-scale `data/systems`.
 
 
 
-I also love to learn new things, especially when it comes to `programming!]`
+I also love to learn new things, especially when it comes to `programming!`
 Some of my [projects! are ...](/projects)
 
 
