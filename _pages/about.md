@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 
 subtitle: <a href='https://www.google.com/search?q=pakistan&newwindow=1&client=opera-gx&hs=eeW&sxsrf=ALiCzsZ9oarMqrLNsR9rhKHIWQUf3XJV2g:1671186296658&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjF88KM9v37AhV7VKQEHaokDLoQ_AUoAnoECAIQBA&biw=1399&bih=769&dpr=1'>Pakistan</a>,Land of Peace.
@@ -20,7 +20,7 @@ social: false  # includes social icons at the bottom of the page
 ---
 
 I am Awais Mustafa, and I love [solving problems.]()
-I am a computer science student who loves working on large-scale data.
+I am a computer science student who loves working on large-scale `data/systems`.
 
 
 
