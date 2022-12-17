@@ -2,7 +2,7 @@
 layout: about
 title: Home
 permalink: /
-subtitle: *from* <a href='https://www.google.com/search?q=pakistan&newwindow=1&client=opera-gx&hs=eeW&sxsrf=ALiCzsZ9oarMqrLNsR9rhKHIWQUf3XJV2g:1671186296658&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjF88KM9v37AhV7VKQEHaokDLoQ_AUoAnoECAIQBA&biw=1399&bih=769&dpr=1'>Pakistan</a>,`Land of Peace.`
+subtitle: _from_ <a href='https://www.google.com/search?q=pakistan&newwindow=1&client=opera-gx&hs=eeW&sxsrf=ALiCzsZ9oarMqrLNsR9rhKHIWQUf3XJV2g:1671186296658&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjF88KM9v37AhV7VKQEHaokDLoQ_AUoAnoECAIQBA&biw=1399&bih=769&dpr=1'>Pakistan</a>,`Land of Peace.`
 
 profile:
   align: right
