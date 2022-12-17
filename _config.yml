@@ -10,7 +10,7 @@ email: awaisdevops@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
    Personal Website
 footer_text: >
-             Made with [♥]()
+             Made with 
  
 keywords: awais,awwais,awwais mustafa,google, awais mustafa, Awais Mustafa, awaismustafa github, awais mustafa github, awaisMustafa github,AwaisMustafa github  # add your own keywords or leave empty
 
@@ -113,8 +113,8 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name: writingPractice # blog_name will be displayed in your blog page
-blog_nav_title: blog # your blog must have a title for it to be displayed in the nav bar
-blog_description: A blog powered mostly be daydreaming.
+blog_nav_title: Blog # your blog must have a title for it to be displayed in the nav bar
+blog_description: A blog powered mostly be dayDreaming.
 permalink: /blog/:year/:title/
 
 # Pagination
