@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Game Development
+title: Comming Soon(Beta Mode)
 description: 
-img: assets/img/3.jpg
-importance: 3
+img: assets/img/6.jpg
+importance: 1
 category: work
 ---
