@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Not So Long Announcement.
-date: 2022-03-01 16:11:00-0400
+date: 2022-01-7 16:11:00-0400
 inline: false
 ---
 I intend to place the results of various works on this webpage, highlighting the results of mini projects, ongoing projects, and more. So, for those who are reading, thank you!
