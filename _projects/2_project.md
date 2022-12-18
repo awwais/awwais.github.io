@@ -4,7 +4,7 @@ title: App Development
 description: 
 img: assets/img/6.jpg
 importance: 2
-category: work
+category: 
 ---
 <!-- 
 <!-- Every project has a beautiful feature showcase page. -->
