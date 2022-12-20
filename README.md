@@ -1,1 +1,1 @@
-[Awais Website](https://awwais.github.io)
+[Awais Website](https://awwais.me)
