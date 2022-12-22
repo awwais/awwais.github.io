@@ -2,7 +2,7 @@
 layout: page
 title: Game
 description: 
-img: assets/img/12.jpg
+img: assets/img/game.png
 importance: 1
 
 category: work
