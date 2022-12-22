@@ -9,6 +9,9 @@ category: work
 ---
 
 # Simon Game
-Follow the pattern of lights for as long as you can... if you can!
+
+## if you don't know how to play Simon Game first read it!
+
+.Follow the pattern of lights for as long as you can... if you can!
 
 [PLAY IT NOW](https://awwais.me/Game.github.io/)
