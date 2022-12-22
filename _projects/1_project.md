@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Simple Game
+title: Game
 description: 
 img: assets/img/12.jpg
 importance: 1
