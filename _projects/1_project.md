@@ -11,4 +11,4 @@ category: work
 # Simon Game
 Follow the pattern of lights for as long as you can... if you can!
 
-PLAY IT NOW[](https://awwais.me/Game.github.io/)
+[PLAY IT NOW](https://awwais.me/Game.github.io/)
