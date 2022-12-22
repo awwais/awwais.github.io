@@ -4,7 +4,7 @@ title: Beta Mode
 description: 
 img: assets/img/6.jpg
 importance: 1
-category: work
+category: 
 ---
 
 [InshAllah]() Projects in progress 
