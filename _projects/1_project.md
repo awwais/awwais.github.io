@@ -10,6 +10,7 @@ category: work
 
 # Simon Game
 
+![](assets/img/game.png ).
 ## if you don't know how to play Simon Game then!
 
 .Follow the pattern of lights for as long as you can... if you can!
