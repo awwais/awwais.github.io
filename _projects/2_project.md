@@ -4,7 +4,19 @@ title: App Development
 description: 
 img: assets/img/6.jpg
 importance: 2
-category: 
+category: smallProjects
+
+
+
+Make Simple Website using Html,CSS, and BootStrap
+
+[TinDog WEBSITE](https://awwais.me/TinDog.github.io)
+
+
+
+## Code for this Website
+
+[TinDog Code](https://github.com/awwais/TinDog.github.io)
 ---
 <!-- 
 <!-- Every project has a beautiful feature showcase page. -->
