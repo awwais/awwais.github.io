@@ -5,7 +5,7 @@ description:
 img: assets/img/game.png
 importance: 1
 
-category: work
+category: fun
 ---
 
 # Simon Game
