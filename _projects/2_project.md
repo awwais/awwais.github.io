@@ -1,6 +1,6 @@
 ---
 layout: page
-title: App Development
+title: TinDog
 description: 
 img: assets/img/6.jpg
 importance: 2
