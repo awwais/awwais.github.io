@@ -2,7 +2,7 @@
 layout: page
 title: TinDog
 description: 
-img: assets/img/6.jpg
+img: assets/img/tinDogCover.png
 importance: 2
 category: smallProjects
 
