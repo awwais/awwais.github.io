@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Beta Mode
+title: MemesApp
 description: 
 img: assets/img/6.jpg
 importance: 1
-category: 
+category: smallProjects
 ---
 
 <div class="row">
