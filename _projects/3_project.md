@@ -1,6 +1,6 @@
 ---
 layout: page
-title: MemesApp
+title: Memes App
 description: 
 img: assets/img/6.jpg
 importance: 1
