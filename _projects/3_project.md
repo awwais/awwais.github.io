@@ -2,7 +2,7 @@
 layout: page
 title: Memes App
 description: 
-img: assets/img/6.jpg
+img: assets/img/MemeShareAppPhoto/MemesShareCover.png
 importance: 2
 category: smallProjects
 ---
