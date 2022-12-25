@@ -89,8 +89,16 @@ Its Simple App When you open this App:
 
 <br>
 
-https://user-images.githubusercontent.com/101943094/209468261-257bb15b-78d9-4230-99dc-4d916b6df7d6.mp4
-
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+      <a href = "">
+        {% include figure.html path="assets/img/videos/MemesShareAppVideo.mp4" title="MemesShareApp" class="img-fluid rounded z-depth-1" %}
+      </a>
+    </div>
+</div>
+<div class="caption">
+    Detailing popular trading, momentum stratgies.
+</div>
 
 <br>
 <br>
