@@ -26,10 +26,20 @@ Its Simple App When you open this App:
         {% include figure.html path="assets/img/MemeShareAppPhoto/awais,awais mustafa,awwais,awwais.me,awwais.com,mustafa,awwais github,awwais twitter,awaistwt3.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
+
+<br>
+<br>
+<br>
+
 <div class="caption">
-    -> When image comes from API then it extract them into volley library, then show in screen with the help of Glide Library.
+    🚀 When image comes from API then it extract them into volley library, then show in screen with the help of Glide Library.
                                                  That's it
 </div>
+
+<br>
+<br>
+<br>
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/MemeShareAppPhoto/out.png" title="example image" class="img-fluid rounded z-depth-1" %}
