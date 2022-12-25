@@ -19,7 +19,7 @@ social: false  # includes social icons at the bottom of the page
 ---
 
 I am Awais Mustafa, and I love `solving problems.`
-I am a computer science student who loves working on large-scale `data/systems`.
+
 
 
 
