@@ -96,9 +96,7 @@ Its Simple App When you open this App:
       </a>
     </div>
 </div>
-<div class="caption">
-    Detailing popular trading, momentum stratgies.
-</div>
+
 
 <br>
 <br>
