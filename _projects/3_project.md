@@ -83,19 +83,19 @@ Its Simple App When you open this App:
 </div>
 
 
-## VideoOfMemesShare
+<!-- ## VideoOfMemesShare
 <br>
-<br>
+<br> -->
 
-<br>
 
-<div class="row">
+
+<!-- <div class="row">
     <div class="col-sm mt-3 mt-md-0">
       <a href = "">
         {% include figure.html path="assets/img/videos/MemesShareAppVideo.mp4" title="MemesShareApp" class="img-fluid rounded z-depth-1" %}
       </a>
     </div>
-</div>
+</div> -->
 
 
 <br>
