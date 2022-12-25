@@ -36,12 +36,18 @@ Its Simple App When you open this App:
     </div>
 </div>
 
+<br>
+<br>
+<br>
+
 <div class="caption">
     🕸 When you Click on [Next]() its loaded a new meme.
                                                
 </div>
 
-
+<br>
+<br>
+<br>
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -55,6 +61,9 @@ Its Simple App When you open this App:
     </div>
 </div>
 
+<br>
+<br>
+<br>
 
 <div class="caption">
     🕸 And when you Click on [Share]() button its called your operating System Share functionality and shows share option.
@@ -66,7 +75,7 @@ Its Simple App When you open this App:
 
 <br>
 <br>
-# All Code on Github
+# Code For this MemesApp
 <br>
 
 [Code...](https://github.com/awwais/MemesShare)
