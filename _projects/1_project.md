@@ -11,7 +11,8 @@ category: fun
 # Simon Game ♦
 
 <p align="center">
-[PLAY IT NOW](https://awwais.me/Game.github.io/)
+  <a href="(https://awwais.me/Game.github.io/)">PLAY IT NOW 🎭</a>
+
 </p>
 
 <br>
