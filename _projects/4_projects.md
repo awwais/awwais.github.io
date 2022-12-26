@@ -8,17 +8,19 @@ category: fun
 ---
 <br>
 
-⚔ I Make Simple Drumkit using Html,CSS, and JavaScript.
+## ⚔ I Make Simple Drumkit using Html,CSS, and JavaScript. 🗯
 <br>
 
-### WEBSITE LINK:
-
 <br>
 
+<br>
+<p align="center">
 [DrumItNow 🙌](https://awwais.me/DrumKit.github.io)
+</p>
+
 
 <br>
 
-## Code for this Website 🗯 
+## Code for this Website 
 
 [DrumKitCode 🙆‍♀️](https://github.com/awwais/DrumKit.github.io)
