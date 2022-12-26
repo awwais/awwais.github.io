@@ -78,24 +78,12 @@ Its Simple App When you open this App:
 <br>
 
 <div class="caption">
-    🕸 And when you Click on [Share]() button its called your operating System Share functionality and shows share option.
+    🕸 And when you Click on `Share()` button its called your operating System Share functionality and shows share option.
                                                
 </div>
 
 
-<!-- ## VideoOfMemesShare
-<br>
-<br> -->
 
-
-
-<!-- <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-      <a href = "">
-        {% include figure.html path="assets/img/videos/MemesShareAppVideo.mp4" title="MemesShareApp" class="img-fluid rounded z-depth-1" %}
-      </a>
-    </div>
-</div> -->
 
 
 <br>
@@ -106,6 +94,4 @@ Its Simple App When you open this App:
 <br>
 
 [Code...](https://github.com/awwais/MemesShare)
-<!-- <div class="caption">
-    This image can also have a caption. It's like magic.
-</div> -->
+
