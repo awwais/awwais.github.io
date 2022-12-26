@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Template Website
+title: TemplateWebSite
 description: 
-img: /assets/img/Cover/templateWebsiteCover.png
+img: assets/img/Cover/tempateWebCover.png
 importance: 3
 category: smallProjects
 ---
