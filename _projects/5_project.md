@@ -2,7 +2,7 @@
 layout: page
 title: Template Website
 description: 
-img: assets/img/MemeShareAppPhoto/MemesShareCover.png
+img: /assets/img/Cover/templateWebsiteCover.png
 importance: 3
 category: smallProjects
 ---
