@@ -10,21 +10,12 @@ category: fun
 
 ### ⚔ I Make Simple Drumkit using Html,CSS, and JavaScript. 🗯
 <br>
-
 <br>
-
-<br>
-
- 
-
-
 <p align="center">
   <a style="font-size:30px"  href="https://awwais.me/DrumKit.github.io">
                                                                         DrumItNow 🎭</a>
 
 </p>
-
-<br>
 
 ## Code for this Website 
 
