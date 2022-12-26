@@ -2,7 +2,7 @@
 layout: page
 title: DrumKit
 description: 
-img: 🍵
+img: /assets/img/Cover/DrumKitCover.png
 importance: 2
 category: fun
 ---
