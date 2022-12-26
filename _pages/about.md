@@ -2,7 +2,7 @@
 layout: about
 title: Home
 permalink: /
-subtitle: Sophomore at <a href='https://csit.uom.edu.pk'>UOM</a> • Living in <a href="">Pakistan</a>
+subtitle: openSource <a href='/projects'>Contributor</a> • and ProblemSolver <a href="https://www.hackerrank.com/awais19">Pakistan</a>
 
 profile:
   align: right
