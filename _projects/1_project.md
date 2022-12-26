@@ -25,3 +25,5 @@ category: fun
 #### You Can't Play This Game On Mobile Devices
 
 
+## Code 👨‍💻
+[SimonGameCode](https://github.com/awwais/Game.github.io)
