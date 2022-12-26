@@ -15,7 +15,7 @@ I Make Simple Drumkit using Html,CSS, and JavaScript.
 
 <br>
 
-[DrumKit](https://awwais.me/DrumKit.github.io)
+[DrumItNow 🙌](https://awwais.me/DrumKit.github.io)
 
 <br>
 
