@@ -14,11 +14,15 @@ category: fun
 <br>
 
 <br>
-<a  align="center"
-  href="https://awwais.me/DrumKit.github.io"
->DrumItNow 🙌
-</a>
 
+ 
+
+
+<p align="center">
+  <a style="font-size:30px"  href="https://awwais.me/DrumKit.github.io">
+                                                                        DrumItNow 🎭</a>
+
+</p>
 
 <br>
 
