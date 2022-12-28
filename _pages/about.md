@@ -6,7 +6,7 @@ subtitle: <a href='/projects'>Developer🚇</a>,And,<a href="https://github.com/
 
 profile:
   align: right
-  image: out6..jpg
+  image: /profilePic/out6..jpg
   image_circular: false # crops the image to make it circular
   address: >
     <p>Iawaismustafa at gmail dot</p>
