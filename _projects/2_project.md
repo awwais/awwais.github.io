@@ -15,11 +15,16 @@ category: smallProjects
 I Make Simple Website using Html,CSS, and BootStrap
 <br>
 
-### WEBSITE LINK:
+
 
 <br>
+<p align="center">
+  <a style="font-size:30px"  href="https://awwais.me/TinDog.github.io">
+                                                                        TinDog Site 🎭</a>
 
-[TinDog WEBSITE](https://awwais.me/TinDog.github.io)
+</p>
+
+
 
 <br>
 
