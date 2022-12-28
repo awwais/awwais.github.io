@@ -27,7 +27,7 @@ I am Awais Mustafa 👨‍💻, and I love `solving problems.`See my profile on 
 <br>
 
 <blockquote >
-Don’t Compare Your Chapter 1 To Someone Else’s Chapter 20! 🌗
+<i>Don’t Compare Your Chapter 1 To Someone Else’s Chapter 20!</i>
 </blockquote>
 
 <!-- You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
