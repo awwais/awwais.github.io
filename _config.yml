@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Awais # the website title (if blank, full name will be used instead)
+title: Awais Mustafa # the website title (if blank, full name will be used instead)
 first_name: Awais
 middle_name: 
 last_name:  
@@ -31,7 +31,7 @@ highlight_theme_light: github   # https://github.com/jwarby/jekyll-pygments-them
 highlight_theme_dark: native    # https://github.com/jwarby/jekyll-pygments-themes
 
 # repo color theme
-repo_theme_light: dark       # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
+repo_theme_light: default       # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
 repo_theme_dark: dark           # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
 
 # -----------------------------------------------------------------------------
@@ -91,7 +91,7 @@ lastfm_id: # your lastfm id
 spotify_id: # your spotify id
 pinterest_id: # your pinterest id
 unsplash_id: # your unsplash id
-instagram_id: # your instagram id
+instagram_id: insta.io # your instagram id
 facebook_id: # your facebook id
 discord_id: # your discord id (18-digit unique numerical identifier)
 
@@ -122,7 +122,7 @@ pagination:
   enabled: true
 
 # Comments
-disqus_shortname: awais # put your disqus shortname
+disqus_shortname: #awais # put your disqus shortname
 # https://help.disqus.com/en/articles/1717111-what-s-a-shortname
 
 # External sources.
@@ -198,7 +198,7 @@ defaults:
   - scope:
       path: "assets/**/*.*"
     values:
-      sitemap: true
+      sitemap: false
 
 # -----------------------------------------------------------------------------
 # Jekyll Minifier
