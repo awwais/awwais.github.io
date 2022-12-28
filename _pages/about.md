@@ -2,7 +2,7 @@
 layout: about
 title: Home
 permalink: /
-subtitle: openSource <a href='/projects'>Contributor</a> • and ProblemSolver <a href="https://www.hackerrank.com/awais19">Pakistan</a>
+subtitle: A <a href='/projects'>Developer</a> • And <a href="https://github.com/awwais">Open Source Enthusiast.</a>
 
 profile:
   align: right
@@ -18,7 +18,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-I am Awais Mustafa, and I love `solving problems.`I also love to<br>learn new things, especially when it comes to `programming!`
+I am Awais Mustafa 👨‍💻, and I love `solving problems.`I also love to<br>learn new things, especially when it comes to `programming!` 💥
 <br><br>Some of my [projects! are ...](/projects)
 
 
