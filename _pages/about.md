@@ -2,7 +2,7 @@
 layout: about
 title: Home
 permalink: /
-subtitle: <a href='/projects'>Developer🚇</a>,And,<a href="https://github.com/awwais">Open Source Enthusiast.👨‍🔬</a>
+subtitle: <a href='/projects'>Developer🚇</a>&<a href="https://github.com/awwais">Open Source Enthusiast..👨‍🔬</a>
 
 profile:
   align: right
