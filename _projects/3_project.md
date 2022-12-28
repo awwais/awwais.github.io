@@ -17,7 +17,7 @@ Its Simple App When you open this App:
 <br>
 <br>
 <center>
-    <iframe width="560" height="315" src="https://www.youtube.com/watch?v=FHdfvCnBm8c&t=17s&ab_channel=Awais" title="YouTube video player" frameborder="0"  allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://youtu.be/FHdfvCnBm8c" title="YouTube video player" frameborder="0"  allowfullscreen></iframe>
 </center>
 
 
