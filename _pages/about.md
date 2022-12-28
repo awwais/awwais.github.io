@@ -2,12 +2,12 @@
 layout: about
 title: Home
 permalink: /
-subtitle: A <a href='/projects'>Developer</a> • And <a href="https://github.com/awwais">Open Source Enthusiast.</a>
+subtitle: <a href='/projects'>Developer</a> • And <a href="https://github.com/awwais">Open Source Enthusiast.</a>
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   address: >
     <p>Iawaismustafa at gmail dot</p>
     <p>com </p>
