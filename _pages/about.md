@@ -18,7 +18,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-I am Awais Mustafa 👨‍💻, and I love `solving problems.`I also love to<br>learn new things, especially when it comes to `programming!` 💥
+I am Awais Mustafa 👨‍💻, and I love `solving problems.`See my profile on <a href="https://hackerrank.com/awais19">HackerRank</a>.I also love to<br>learn new things, especially when it comes to `programming!` 💥
 <br><br>Some of my [projects! are ...](/projects)
 
 
