@@ -20,8 +20,7 @@ social: false  # includes social icons at the bottom of the page
 <br>
 <br>
 
-I am Awais Mustafa 👨‍💻, and I love `solving problems.`See my profile on <a href="https://hackerrank.com/awais19">HackerRank</a>.I also love to learn new things, especially when it comes to `programming!` 💥
-<br><br>Some of my [projects! are ...](/projects)
+I am Awais Mustafa 👨‍💻, and I love `solving problems.`See my profile on <a href="https://hackerrank.com/awais19">HackerRank</a>.I also love to learn new things, especially when it comes to `programming!` 💥. Some of my [projects! are ...](/projects) 🤴
 
 
 
