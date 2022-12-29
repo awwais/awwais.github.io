@@ -11,7 +11,7 @@ category: fun
 # Simon Game ♦
 <br>
 <p align="center">
-  <a style="font-size:30px" href="https://awwais.me/Game.github.io">PLAY IT NOW 🎭</a>
+  <a style="font-size:30px" href="https://awwais.me/game">PLAY IT NOW 🎭</a>
 
 </p>
 
@@ -26,4 +26,4 @@ category: fun
 
 
 ## Code 👨‍💻
-[SimonGameCode](https://github.com/awwais/Game.github.io)
+[SimonGameCode](https://github.com/awwais/game)
