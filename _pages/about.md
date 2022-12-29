@@ -18,17 +18,15 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 <br>
-<br>
+
 
 I am Awais Mustafa 👨‍💻, and I love `solving problems.`See my profile on <a href="https://hackerrank.com/awais19">HackerRank</a>.I also love to learn new things, especially when it comes to `programming!` 💥. Some of my [projects! are ...](/projects) 🤴
 
 <br>
 <br>
-<br>
 
-<blockquote >
-<i><font size="1">Don’t Compare Your Chapter 1 To Someone Else’s Chapter 20!</font></i>
-</blockquote>
+
+
 
 <!-- You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
