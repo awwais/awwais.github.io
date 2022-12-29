@@ -20,7 +20,7 @@ And then make changes to it that are in line with your vision. ❤
 <br>
 
 <p align="center">
-  <a style="font-size:30px"  href="https://awwais.me/TemplateWebsite.github.io">
+  <a style="font-size:30px"  href="https://awwais.me/templateWebsite">
                                       Website Check It Now 🎭</a>
 
 </p>
