@@ -9,9 +9,10 @@ profile:
   image: /profilePic/out. (2).jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>Iawaismustafa at gmail dot</p>
-    <p>com </p>
-
+    <p>Iawwais at google dot</p>
+    <p>com 🔍</p>
+    <img>https://www.google.com/imgres?imgurl=https%3A%2F%2Fmiro.medium.com%2Fmax%2F1360%2F0*7Q3yvSIv_t0ioJ-Z.gif&imgrefurl=https%3A%2F%2Fmedium.com%2Fswlh%2Fwhat-is-programming-d5aa8fb0f280&tbnid=KAywifT46CGFXM&vet=10CAQQMyhpahcKEwjQ5tjc8Z78AhUAAAAAHQAAAAAQAg..i&docid=Q2g3c3EZrHGocM&w=680&h=428&q=coding%20gif&client=opera-gx&ved=0CAQQMyhpahcKEwjQ5tjc8Z78AhUAAAAAHQAAAAAQAg
+</img>
 
 news: true  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
