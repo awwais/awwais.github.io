@@ -9,7 +9,7 @@ profile:
   image: /profilePic/out. (2).jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>Iawwais at google dot</p>
+    <p>I awwais at google dot</p>
     <p>com🎆</p>
     
 news: true  # includes a list of news items
