@@ -19,7 +19,7 @@ I Make Simple Website using Html,CSS, and BootStrap
 
 <br>
 <p align="center">
-  <a style="font-size:30px"  href="https://awwais.me/TinDog.github.io">
+  <a style="font-size:30px"  href="https://awwais.me/TinDog">
                                                                         TinDog Site 🎭</a>
 
 </p>
@@ -30,6 +30,6 @@ I Make Simple Website using Html,CSS, and BootStrap
 
 ## Code for this Website
 
-[TinDog Code](https://github.com/awwais/TinDog.github.io)
+[TinDog Code](https://github.com/awwais/TinDog)
 
 
