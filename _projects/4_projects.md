@@ -12,7 +12,7 @@ category: fun
 <br>
 <br>
 <p align="center">
-  <a style="font-size:30px"  href="https://awwais.me/DrumKit.github.io">
+  <a style="font-size:30px"  href="https://awwais.me/DrumKit">
                                                                         DrumItNow 🎭</a>
 
 </p>
@@ -20,4 +20,4 @@ category: fun
 
 ## Code 👨‍💻
 
-[DrumKitCode 🙆‍♀️](https://github.com/awwais/DrumKit.github.io)
+[DrumKitCode 🙆‍♀️](https://github.com/awwais/DrumKit)
