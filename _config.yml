@@ -53,7 +53,7 @@ footer_fixed: false
 max_width: 800px
 
 # TODO: add layout settings (single page vs. multi-page)
-layout_settings = single page
+
 # -----------------------------------------------------------------------------
 # Open Graph & Schema.org
 # -----------------------------------------------------------------------------
