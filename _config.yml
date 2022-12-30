@@ -53,12 +53,12 @@ footer_fixed: false
 max_width: 800px
 
 # TODO: add layout settings (single page vs. multi-page)
-
+layout_settings = single page
 # -----------------------------------------------------------------------------
 # Open Graph & Schema.org
 # -----------------------------------------------------------------------------
 # Display links to the page with a preview object on social media.
-serve_og_meta: true # Include Open Graph meta tags in the HTML head
+serve_og_meta: false # Include Open Graph meta tags in the HTML head
 serve_schema_org: false # Include Schema.org in the HTML head
 og_image: /assets/img/opengraph.png # The site-wide (default for all links) Open Graph preview image
 
@@ -94,6 +94,7 @@ unsplash_id: # your unsplash id
 instagram_id: awais.io # your instagram id
 facebook_id: # your facebook id
 discord_id: # your discord id (18-digit unique numerical identifier)
+
 
 contact_note: >
   Feel free to reach out via email and check out my github or linkedin profiles.
